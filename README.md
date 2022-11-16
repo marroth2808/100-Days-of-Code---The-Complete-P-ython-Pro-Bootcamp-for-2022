@@ -1,4 +1,4 @@
 # 100-Days-of-Code: The Complete Python Pro Bootcamp for 2022
-1️⃣ Beginner 
-<li> Day 1: Working with Variables in Python to Manage Data </li>
+# 1️⃣ Beginner 
+<li> <a href ="https://github.com/marroth2808/100-Days-of-Code---The-Complete-P-ython-Pro-Bootcamp-for-2022/tree/main/Day%2001"> Day 1: Working with Variables in Python to Manage Data </a></li>
 
