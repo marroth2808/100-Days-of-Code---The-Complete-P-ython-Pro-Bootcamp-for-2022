@@ -1,6 +1,6 @@
-<b> Day 1 - Working with Variables in Python to Manage Data </b>
+# Day 1 - Working with Variables in Python to Manage Data 
 
-<b> Concepts Practised </b>
+# Concepts Practised 
 <li> Printing to the Console in Python </li>
 <li> String Manipulation and Code Intelligence </li>
 <li> Debugging </li>
