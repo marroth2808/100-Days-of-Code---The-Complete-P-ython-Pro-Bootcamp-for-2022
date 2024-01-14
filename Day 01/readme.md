@@ -9,4 +9,4 @@
 <li> Variable Naming </li>
 
 # Band Name Generator
-![alt tect](https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%2001/Band_name_generator.gif)
+![alt text](https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%2001/Band_name_generator.gif)
