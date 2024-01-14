@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" modified="2023-09-16T09:08:53.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bH5YkWCXlWgRcCh3QMaL" version="21.7.5" type="device">
+  <diagram name="Seite-1" id="Cou2bVpltUXHq8ajyyvZ">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FBIScWAe_2QftV69qEEE-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-2" target="FBIScWAe_2QftV69qEEE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-3" target="FBIScWAe_2QftV69qEEE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-3" value="Wort prüfen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-5" target="FBIScWAe_2QftV69qEEE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-5" target="FBIScWAe_2QftV69qEEE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-5" value="Buchstabe im Wort" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="492" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-7" value="Text + leben abziehen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="502" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-11" value="nein" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-14" target="FBIScWAe_2QftV69qEEE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-14" value="leben &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="732" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="885" as="sourcePoint" />
+            <mxPoint x="300" y="942" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="902" />
+              <mxPoint x="300" y="902" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-17" value="You lose!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="852" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-20" value="nein" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="812" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-29" value="Buchstabe im Wort anzeigen" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-32" target="FBIScWAe_2QftV69qEEE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-32" value="leere Wortstellen anzeigen&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-47" target="FBIScWAe_2QftV69qEEE-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="610" as="sourcePoint" />
+            <mxPoint x="600" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="772" />
+              <mxPoint x="670" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-44" target="FBIScWAe_2QftV69qEEE-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-44" value="zufälliges Wort festlegen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-47" target="FBIScWAe_2QftV69qEEE-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="850" />
+              <mxPoint x="500" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-47" value="Wort vollständig" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="732" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-49" value="nein" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="747" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-50" value="You win!" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="852" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-53" value="Ende" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1062" as="sourcePoint" />
+            <mxPoint x="360" y="967" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-55" value="ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-56" value="ja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="812" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-57" value="Leerzeichen als Wort" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-59" target="FBIScWAe_2QftV69qEEE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-59" value="Guess a letter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIScWAe_2QftV69qEEE-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FBIScWAe_2QftV69qEEE-14" target="FBIScWAe_2QftV69qEEE-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="770" as="sourcePoint" />
+            <mxPoint x="310" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="772" />
+              <mxPoint x="170" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
