@@ -6,4 +6,4 @@
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-for-2022/tree/main/Day%2004"> Day 4: Randomisation and Python Lists</a></li>
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2005"> Day 5: Loops</a></li>
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2006"> Day 6: Functions and Karel</a></li>
-
+<li> <"https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2007"> Day 7: Hangman</a></li>
