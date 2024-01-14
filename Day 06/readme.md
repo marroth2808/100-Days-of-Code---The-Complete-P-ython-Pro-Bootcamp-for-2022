@@ -1,4 +1,4 @@
-# Day 5: Functions and Karel
+# Day 6: Functions and Karel
 
 # Concepts Practised
 <li> Functions </li>
