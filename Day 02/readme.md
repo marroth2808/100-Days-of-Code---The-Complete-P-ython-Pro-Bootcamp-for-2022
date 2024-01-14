@@ -8,4 +8,4 @@
 <li> f-Strings </li>
 
 # Tip Calculator
-![alt text]
+![alt text](https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%2002/Tip_calculator.gif)
