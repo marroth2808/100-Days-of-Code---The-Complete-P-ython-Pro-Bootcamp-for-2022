@@ -1,4 +1,4 @@
-# Day 8: Dictionaries, Nesting and the Secret Auction
+# Day 9: Dictionaries, Nesting and the Secret Auction
 
 # Concepts Practised
 <li> Dictionaries </li>
