@@ -5,8 +5,8 @@
 <li> Does Python have block scope? </li>
 <li> How to modify a global variable </li>
 <li> Constants </li>
-<li> Number Guessing Game </li>
 
-
+# Number Guessing Game
+![alt text](https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/blob/main/Day%2012/Number%20Guessing%20Game.gif)
 
 
