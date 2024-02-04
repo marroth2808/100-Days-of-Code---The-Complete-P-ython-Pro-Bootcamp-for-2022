@@ -11,4 +11,4 @@
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2009"> Day 9: Dictionaries, Nesting and the Secret Auction</a></li>
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2010"> Day 10: Functions with Outputs</a></li>
 <li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2011"> Day 11: The Blackjack Capstone Project</a></li>
-<li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2011"> Day 12: Scope & Number Guessing Game </a></li> 
+<li> <a href = "https://github.com/marroth2808/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/Day%2012"> Day 12: Scope & Number Guessing Game </a></li> 
